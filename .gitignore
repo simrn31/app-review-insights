@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+# Real scraped data can be large; keep it local
+data/raw/reviews_raw.csv
